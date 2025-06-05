@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m a dedicated and curious second-year Information Technology student who thrives on creating full-stack web applications. I’ve already spent over **6 months working on real-world projects** such as:
+I’m a dedicated and curious second-year Information Technology student who thrives on creating full-stack web applications. I’ve already spent over **12 months working on real-world projects** such as:
 
 - 🛒 E-commerce platforms  
 - 🌐 Portfolio websites  
