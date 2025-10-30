@@ -1,49 +1,18 @@
-# Hi, I'm Musawenkosi Mndau 👋
+# 💫 About Me:
+Hi, I'm Musawenkosi Mndau 👋<br>🎓 Second-Year IT Student at [Belgium Campus](https://www.belgiumcampus.ac.za)<br>🌍 Based in Pretoria, Gauteng, South Africa<br>💻 Aspiring Full-Stack Developer | Passionate about web technologies, software engineering, and building impactful digital solutions<br><br>🚀 About Me<br>I’m a dedicated and curious second-year Information Technology student who thrives on creating full-stack web applications. I’ve already spent over 12 months working on real-world projects such as:<br><br>🛒 E-commerce platforms<br>🌐 Portfolio websites<br>🌆 IoT-based applications<br>I enjoy problem-solving, collaborating on innovative tech projects, and constantly learning new technologies. Currently, I’m open to freelance work, collaborations, and internship opportunities.
 
-🎓 **Second-Year IT Student** at [Belgium Campus](https://www.belgiumcampus.ac.za/)  
-🌍 Based in **Pretoria, Gauteng, South Africa**  
-💻 **Aspiring Full-Stack Developer** | Passionate about **web technologies**, **software engineering**, and building **impactful digital solutions**
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/musawenkosi-mndau-617a95262/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Musawenkosi Mndau) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:musawenkosimndau@gmail.com) 
 
-## 🚀 About Me
-
-I’m a dedicated and curious second-year Information Technology student who thrives on creating full-stack web applications. I’ve already spent over **12 months working on real-world projects** such as:
-
-- 🛒 E-commerce platforms  
-- 🌐 Portfolio websites  
-- 🌆 IoT-based applications
-
-I enjoy problem-solving, collaborating on innovative tech projects, and constantly learning new technologies. Currently, I’m open to **freelance work**, **collaborations**, and **internship opportunities**.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mwfourty&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mwfourty&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwfourty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Mwfourty&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack & Tools
-
-**Frontend**  
-- HTML, CSS  
-- JavaScript (React)  
-- Tailwind CSS  
-
-**Backend**  
-- Node.js  
-- C#  
-- NoSQL databases (MongoDB alternatives)  
-
-**Other Skills**  
-- Python  
-- Microsoft SQL Server  
-- SQL
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: [musawenkosimndau@gmail.com](mailto:musawenkosimndau@gmail.com)  
-- 💼 LinkedIn: [musawenkosi-mndau](https://www.linkedin.com/in/musawenkosi-mndau-617a95262)
-
----
-
-> “I’m eager to take on new challenges, learn emerging technologies, and contribute to building the future of tech.” 🚀
-
-Thanks for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
